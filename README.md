@@ -13,3 +13,6 @@
 [![Other](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,vite,bootstrap,regex,vercel,)](https://www.github.com/condyl)
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=condyl&theme=dark&hide_border=true)
+
+## I'm currently listening to: 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kspbn665giwepk7zpurzmoim3&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kspbn665giwepk7zpurzmoim3&redirect=true)
