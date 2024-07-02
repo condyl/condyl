@@ -2,6 +2,10 @@
 
 ### I'm a 2nd year computer science student at Brock University in Canada.  I'm currently a Research Assistant at Brock University, and have previously worked as a Software Developer intern at Caribou Contests.  I also enjoy working on a bunch of random projects in my free time.
 
+## Currently:
+#### 🤔 Taking Intro to Databases, Operating Systems, Statistics, and Object Oriented Programming.
+#### 🔨 Working on creating an unofficial schedule creation system for Brock University students [here](https://github.com/iOlivers/BrockTimeTable).
+#### 🧗 Indoor bouldering as much as possible.
 
 ## Languages
 [![Languages](https://skillicons.dev/icons?i=java,python,html,css,js,ts,php,latex)](https://www.github.com/condyl)
