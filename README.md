@@ -5,7 +5,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/connor-bernard/)
 
 ## Currently:
-#### 🤔 Taking Intro to Databases, Operating Systems, Statistics, and Object Oriented Programming.
+#### 🤔 Research assistant-ing.
 #### 🔨 Working on creating an unofficial schedule creation system for Brock University students [here](https://github.com/iOlivers/BrockTimeTable).
 #### 🧗 Indoor bouldering as much as possible.
 
