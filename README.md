@@ -6,7 +6,7 @@
 
 ## Currently:
 #### 🤔 Research assistant-ing.
-#### 🔨 Working on creating an unofficial schedule creation system for Brock University students [here](https://github.com/iOlivers/BrockTimeTable).
+#### 🔨 Working on [brocktimetable.com](https://brocktimetable.com), an unofficial course schedule creator for Brock University students [here](https://github.com/iOlivers/BrockTimeTable).
 #### 🧗 Indoor bouldering as much as possible.
 
 ## Languages
