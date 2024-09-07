@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Connor.
 
-### I'm a 2nd year computer science student at Brock University in Canada.  I'm currently a Research Assistant at Brock University, and have previously worked as a Software Developer intern at Caribou Contests.  I also enjoy working on a bunch of random projects in my free time.
+### I'm a 3nd year computer science student at Brock University in Canada.  I'm currently a Software Engineer Intern at Sun Life, Research Assistant at Brock University, and have previously worked as a Software Developer intern at Caribou Contests.  I also enjoy working on a bunch of random projects in my free time.
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/connor-bernard/)
 
