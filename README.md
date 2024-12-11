@@ -5,7 +5,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/connor-bernard/)
 
 ## Currently:
-#### 🤔 Research assistant-ing.
+#### 📃 Creating a [AI Resume Builder](https://github.com/condyl/resume-creator-frontend)
 #### 🔨 Working on [brocktimetable.com](https://brocktimetable.com), an unofficial course schedule creator for Brock University students [here](https://github.com/iOlivers/BrockTimeTable).
 #### 🧗 Indoor bouldering as much as possible.
 
