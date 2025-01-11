@@ -5,7 +5,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/connor-bernard/)
 
 ## Currently:
-#### 📃 Creating a [AI Resume Builder](https://resumecreator.connorbernard.com), [here (frontend)](https://github.com/condyl/resume-creator-frontend) and [here (backend)](https://github.com/condyl/resume-creator-backend)
+#### 📃 Creating a [AI Resume Builder](https://resumecreator.connorbernard.com), [here](https://github.com/condyl/resume-creator).
 #### 🔨 Working on [brocktimetable.com](https://brocktimetable.com), an unofficial course schedule creator for Brock University students [here](https://github.com/iOlivers/BrockTimeTable).
 #### 🧗 Indoor bouldering as much as possible.
 
