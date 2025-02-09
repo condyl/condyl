@@ -6,7 +6,7 @@
 
 ## Currently:
 #### 📃 Creating a [AI Resume Builder](https://resumecreator.connorbernard.com), [here](https://github.com/condyl/resume-creator).
-#### 🔨 Working on [brocktimetable.com](https://brocktimetable.com), an unofficial course schedule creator for Brock University students [here](https://github.com/iOlivers/BrockTimeTable).
+#### 🔨 Working on [brocktimetable.com](https://brocktimetable.com), an unofficial course schedule creator for Brock University students [here](https://github.com/BrockTimetable/BrockVisualTimetable).
 #### 🧗 Indoor bouldering as much as possible.
 
 ## Languages
