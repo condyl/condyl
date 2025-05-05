@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Connor.
 
-### I'm a 3rd year computer science student at Brock University in Canada.  Incoming Engineering Intern & Shopify.  I have previous worked as a Software Engineer Intern at Sun Life, Research Assistant at Brock University, and Software Developer Intern at Caribou Contests.  I also enjoy working on a bunch of random projects in my free time.
+### I'm a 3rd year computer science student at Brock University in Canada.  Software Engineer Intern at Shopify.  I have previous worked as a Software Engineer Intern at Sun Life, Research Assistant at Brock University, and Software Developer Intern at Caribou Contests.  I also enjoy working on a bunch of random projects in my free time.
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/connor-bernard/)
 
