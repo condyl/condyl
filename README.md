@@ -1,6 +1,8 @@
 # Hi! 👋 I'm Connor.
 
-### I'm a 3rd year computer science student at Brock University in Canada.  I have previous worked as a Software Engineer Intern at Shopify, Software Engineer Intern at Sun Life, Research Assistant at Brock University, and Software Developer Intern at Caribou Contests.  I also enjoy working on a bunch of random projects in my free time.
+### I’m a 4th-year Computer Science student at Brock University (Co-op) in Canada.
+
+I’ve previously worked as a Software Engineer Intern at **Shopify** and **Sun Life**, a Software Developer Intern at **Caribou Contests**, and as a Research Assistant at **Brock University**.
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/connor-bernard/)
 
@@ -10,10 +12,13 @@
 #### 🧗 Indoor bouldering as much as possible.
 
 ## Languages
-[![Languages](https://skillicons.dev/icons?i=java,python,html,css,js,ts,php,latex)](https://www.github.com/condyl)
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,ruby,java,php,html,css,latex)]()
 
-## Libraries & Frameworks
-[![Libraries & Frameworks](https://skillicons.dev/icons?i=react,django,flask,threejs,selenium,express,nodejs,tailwind,spring)](https://www.github.com/condyl)
+## Frameworks & Libraries
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,angular,nextjs,django,flask,express,threejs,tailwind,spring,rails,remix)]()
+
+## Developer Tools
+[![Developer Tools](https://skillicons.dev/icons?i=git,linux,mysql,mongodb,jenkins,firebase,jira)]()
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=condyl&theme=dark&hide_border=true)
 
