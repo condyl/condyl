@@ -1,9 +1,11 @@
-### currently:
+### Connor Bernard
+
+#### currently:
 - 4th year cs student @ brocku
 - club exec & developer @ brock computer science club
 - working on [brocktimetable.com](https://brocktimetable.com) ([repo](https://github.com/BrockTimetable/BrockVisualTimetable))
 
-### previously:
+#### previously:
 - swe intern @ shopify
 - swe intern @ sun life
 - research assistant @ brocku
