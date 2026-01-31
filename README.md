@@ -1,1 +1,1 @@
-[<img width="1200" height="630" alt="og" src="https://github.com/user-attachments/assets/cd0f8da3-567c-4ae0-aa42-801e900dcf02" />](https://connorbernard.com)
+[<img width="1200" height="400" alt="og-github" src="https://github.com/user-attachments/assets/37530c2a-eefd-4b87-afaf-7e00ed258336" />](https://connorbernard.com)
