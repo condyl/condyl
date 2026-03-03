@@ -1,9 +1,4 @@
-### Connor Bernard
-
-#### incoming:
-- swe intern @ <a href="https://shopify.com"><img src="shopify.svg" width="16" height="16"></a> shopify
-
-#### currently:
+- incoming swe intern @ <a href="https://shopify.com"><img src="shopify.svg" width="16" height="16"></a> shopify
 - 4th year cs student @ <a href="https://brocku.ca"><img src="brocku.png" width="16" height="16"></a> brocku
 - club exec & developer @ <a href="https://brockcsc.ca"><img src="brockcsc.png" width="16" height="16"></a> brock computer science club
 
